@@ -22,7 +22,6 @@ class Main:
           <--start>    The starting point
           <--end>      The destination point
           [--two-way]  Check if the reverse route is possible
-          [--recurse]  Use the recursive algorithm
           [--help]     Show the help
 
         Examples:
